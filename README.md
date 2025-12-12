@@ -1,2 +1,3 @@
-# F-22-Raptor-Jet-CG-project
-small computer graphics about F-22 raptor jet
+# GP_one_year_project
+
+#need to chnage the afterburner and you can change any needed. ;-)
